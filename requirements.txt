@@ -1,0 +1,23 @@
+# Requirements for AI, RAG, and Agents Learning
+
+# AI and Machine Learning Libraries
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+pytorch
+
+# Natural Language Processing Libraries
+nltk
+spacy
+transformers
+
+# Reinforcement Learning Libraries
+gym
+stable-baselines3
+
+# Other Useful Libraries
+matplotlib
+seaborn
+jupyter

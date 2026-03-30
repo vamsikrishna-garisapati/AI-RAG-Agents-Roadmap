@@ -7,6 +7,10 @@ scikit-learn
 tensorflow
 keras
 pytorch
+<<<<<<< HEAD
+=======
+openai
+>>>>>>> a0d04cc (Implement multi-agent orchestration system, add RAG chatbot and research agent, and create foundational documentation and requirements)
 
 # Natural Language Processing Libraries
 nltk
